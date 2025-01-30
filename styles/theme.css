@@ -1,5 +1,5 @@
 :root {
-    --temple-red-dark: rgb(136, 24, 45);
+    --temple-red-dark: rgb(38, 16, 162);
     --bs-primary: #88182d;
     --bs-primary-rgb: 158, 27, 52;
     --bs-primary-dark: #721426;
@@ -25,10 +25,10 @@
 }
 
 .navbar {
-    --bs-navbar-active-color: rgba(var(--bs-emphasis-color-rgb), 1);
+    --bs-navbar-active-color: rgb(38, 16, 162);
     --bs-navbar-padding-x: 0.1rem;
     --bs-navbar-padding-y: 0;
-    --bs-navbar-brand-color: white;
+    --bs-navbar-brand-color: rgb(38, 16, 162);
     --bs-navbar-brand-hover-color: white;
 }
 
